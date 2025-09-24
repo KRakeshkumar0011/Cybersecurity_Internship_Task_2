@@ -22,3 +22,5 @@ Trying Identify phishing characteristics in a suspicious email sample.
 * Malicious files can install malware or ransomware.
 #### 5. Check Grammar & Spelling Mistakes
 * Professional organizations rarely send poorly written emails
+
+## Conclusion
