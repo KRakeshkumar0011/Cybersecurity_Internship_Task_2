@@ -6,4 +6,4 @@ Trying Identify phishing characteristics in a suspicious email sample.
 
 ## Email contents
 * [Email Hearder.txt](https://github.com/KRakeshkumar0011/Cybersecurity_Internship_Task_2/blob/main/Email%20Header.txt) - It contains raw email header for technical inspection.
-* [Email Header report.PDF]()
+* [Email Header report.PDF](https://github.com/KRakeshkumar0011/Cybersecurity_Internship_Task_2/blob/main/Email%20Header%20report.pdf) - Detailed report including email overview, header analysis, content evaluation, and recommendations.
